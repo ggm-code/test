@@ -5,5 +5,6 @@ public class tset {
         System.out.println(" git tetst ");
         System.out.println("reset head test1");
         System.out.println("create branch");
+        System.out.println("remote update");
     }
 }
